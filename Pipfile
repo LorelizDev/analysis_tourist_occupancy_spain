@@ -5,8 +5,16 @@ name = "pypi"
 
 [packages]
 cookiecutter = "*"
+pandas = "*"
+requests = "*"
+numpy = "*"
+matplotlib = "*"
+seaborn = "*"
+pyarrow = "*"
+scikit-learn = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.12"
